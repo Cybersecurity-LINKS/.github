@@ -1,5 +1,5 @@
 ## Hi there 👋
-📦 [cyber-links crates.io](https://crates.io/teams/github:cybersecurity-links:publish)
+📦 [cyberLinks crates.io](https://crates.io/teams/github:cybersecurity-links:publish)
 
 <!--
 
