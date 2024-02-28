@@ -1,8 +1,8 @@
 ## Hi there 👋
 This is the official repository of the Cybersecurity Research Group @ LINKS Foundation
 
-- 📦 [cyberLinks crates.io](https://crates.io/teams/github:cybersecurity-links:publish)
 - 📚 [cyberLinks docs](https://cybersecurity-links.github.io/)
+- 📦 [cyberLinks crates.io](https://crates.io/teams/github:cybersecurity-links:publish)
 <!--
 
 **Here are some ideas to get you started:**
